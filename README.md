@@ -26,7 +26,7 @@
 				<br>
 					Wechat: EricTian_7
 				<br> 
-					Email: yuant7 AT uw DOT edu / tian DOT yuan7 AT icloud DOT edu
+					Email: yuant7 AT uw DOT edu / tian DOT yuan7 AT icloud DOT com
 				<br> 
 					Office Hours: 1 Hour Piror to the class or by appt.
 			</td>
