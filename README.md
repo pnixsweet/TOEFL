@@ -19,7 +19,8 @@
 				<a href="http://about.me/pnixsweet">
 					Eric Tian </a>
 				<br> 
-					Office: Common Area 1604
+					Office: Room 1604, Tower 2, (Huayi Mansion)
+						2020 Zhongshan (W) Road
 				<br>
 					Tel: 189-160-65515
 				<br>
@@ -159,6 +160,7 @@ Week 3: Unit 2: Communities—Listening, Reading, Speaking, Writing, Skill Focus
 		GRAMMAR,  (Prepositional Phrases & Subordinate Clauses)
 
                 VOCABULARY, (Latin and Greek roots, Groups 4-6)
+                
 		VOCABULARY  (Latin and Greek roots, Groups 7-9)
 
 
