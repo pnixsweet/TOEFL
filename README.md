@@ -136,11 +136,11 @@ Recommended Textbooks:
 <a name="syllabus"?></a>
 <h2>Syllabus</h2>
 
-Week 1: Diagnostic test to assess level; Introduction to the course; Purpose for taking the TOEFL course and areas needed to improve; differences between the paper-based (Institutional) TOEFL, the new TOEFL iBT, and the in-house test for the Academic English Program (AELSAT)
+Week 1: Diagnostic test to assess level; Introduction to the course; Purpose for taking the TOEFL course and areas needed to improve; differences between the paper-based (Institutional) TOEFL, the new TOEFL iBT, and the in-house test for the Foundation Program.
 
-                General Strategies for improving the TOEFL score
+General Strategies for improving the TOEFL score
 
-                Note-taking Strategies
+Note-taking Strategies
 
  
 
@@ -148,60 +148,60 @@ Week 2:  Vocabulary Strategies, Reading Strategies, Discourse Cues
 
 Unit 1: Addiction—Listening, Reading, Speaking, Writing, Skill Focus: Comparing and Contrasting
 
-                GRAMMAR,  (Prepositions & Prep. Phrases),
+GRAMMAR,  (Prepositions & Prep. Phrases),
 
-                GRAMMAR,  (Main and Subordinate Clause Markers)
+GRAMMAR,  (Main and Subordinate Clause Markers)
 
-                VOCABULARY,  (Latin and Greek roots, Groups 1-3)
+VOCABULARY,  (Latin and Greek roots, Groups 1-3)
 
                                                
 
 Week 3: Unit 2: Communities—Listening, Reading, Speaking, Writing, Skill Focus: Using Detailed Examples
 		GRAMMAR,  (Prepositional Phrases & Subordinate Clauses)
 
-                VOCABULARY, (Latin and Greek roots, Groups 4-6)
+VOCABULARY, (Latin and Greek roots, Groups 4-6)
                 
-		VOCABULARY  (Latin and Greek roots, Groups 7-9)
+VOCABULARY  (Latin and Greek roots, Groups 7-9)
 
 
 Week 4:                 Unit 3: Personality--Listening, Reading, Speaking, Writing, Skill Focus: Making Inferences
 
-                GRAMMAR,  (Appositives and Noun Structures), GRAMMAR & VOCABULARY review tests
+GRAMMAR,  (Appositives and Noun Structures), GRAMMAR & VOCABULARY review tests
 
-                Speaking & Writing tests
+Speaking & Writing tests
 
  
 
 Week 5:                 Unit 4: Trends—Listening, Reading, Speaking, Writing, Skill Focus: Identifying and Using Main Ideas and Details
 
-                GRAMMAR, (Standard Word Order), G√26 (Word Order in Subordinate Clauses) 
+GRAMMAR, (Standard Word Order), G√26 (Word Order in Subordinate Clauses) 
 
-                VOCABULARY  (Prefixes—negation, number and size, very small, very large)
+VOCABULARY  (Prefixes—negation, number and size, very small, very large)
 
  
 
 Week 6:                 Unit 5: Cross-Cultural Insights—Listening, Reading, Speaking, Writing, Skill Focus: Using Context Clues
 
-                GRAMMAR,  (Inverted S-V Word Order)
+GRAMMAR,  (Inverted S-V Word Order)
 
-                VOCABULARY  (Prefixes—time, where)
+VOCABULARY  (Prefixes—time, where)
 			
-We will have a midterm during week 6 and the actual test time will be annoucned when we approach to the middle of the semester
+We will have a tangible midterm during week 6 and the actual test time will be annoucned when we approach to the middle of the semester
  
 
 Week 7:                 Unit 6: Faith—Listening, Reading, Speaking, Writing, Skill Focus: Summarizing
 
-                GRAMMAR,  (Parallel Structure), G√29 (Paired Expressions)
+GRAMMAR,  (Parallel Structure), G√29 (Paired Expressions)
 
-                VOCABULARY  (Prefixes—amount, relationship, judgment, other) 
+VOCABULARY  (Prefixes—amount, relationship, judgment, other) 
 
                                                
 
 Week 8:                 Unit 8: Perspectives on War-- Listening, Reading, Speaking, Writing, Skill Focus: Paraphrasing 
 
-                GRAMMAR,  (Confusing Words and Expressions), GRAMMAR & VOCABULARY review tests
+GRAMMAR,  (Confusing Words and Expressions), GRAMMAR & VOCABULARY review tests
 
-                Speaking & Writing tests
+Speaking & Writing tests
 
 <a name="grades"></a>
 <h2>Grades</h2>
