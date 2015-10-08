@@ -28,7 +28,7 @@
 				<br> 
 					Email: yuant7 AT uw DOT edu / tian DOT yuan7 AT icloud DOT com
 				<br> 
-					Office Hours: 1 Hour Piror to the class or by appt.
+					Office Hours: 1 Hour AFTER the class or by appt.
 			</td>
 		</tr>
 	</tbody>
