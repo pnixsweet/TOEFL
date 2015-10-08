@@ -114,10 +114,12 @@ Speaking:
 <a name="textbook"></a>
 <h2>Textbook</h2>
 
-<li>Main Textbook: The official Guide, 4th Edition, By ETS</li>
-<li>词以类记</li>
-<li>词根词缀</li>
-
+<li>新托福IBT官方指南：The official Guide, 4th Edition, By ETS</li>
+<li>词以类记 By Red Rock</li>
+<li>词根词缀联想记忆法 By 俞敏洪</li>
+<li>新托福考试口语真经4 By 新航道</li>
+<li>挑战托福满分作文 By 新东方</li>
+<li>TPO模考软件</li>
 
 
 
