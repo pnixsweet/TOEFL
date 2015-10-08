@@ -59,6 +59,9 @@
 				<td valign="top">
 					<a href="#schedule">Schedule</a>
 				</td>
+				<td valign="top">
+					<a href="#grade">Grades</a>
+				</td>
 			</tr>
 		</tbody>
 	</table>
@@ -77,6 +80,7 @@ I'm your instructor Eric. Here's some my background might intrigue you. I gradua
 
 Though there are large numbers of tests meant for the improvement of English skills but still TOEFL is considered as best among them. This pattern of this test is designed in such a way that one who goes for it got lots of things to learn that can actually help in the improvement of communication skills. It has been said about the TOEFL that its modules play an actual role in making people learn a lot from this test.
 TOEFL has two versions and they are internet based test and paper based test. Both of these versions have same modules but that are slightly different from each other.
+This course is designed to help you improve your score on the TOEFL,using academic language skills and test taking strategies. The class will practice for specific sections of the test.
 
 <a name="objectives"></a>
 <h2>Objectives and Expectations</h2>
@@ -114,6 +118,8 @@ Speaking:
 <a name="textbook"></a>
 <h2>Textbook</h2>
 
+Required Textbooks: 
+
 <li>新托福IBT官方指南：The official Guide, 4th Edition, By ETS</li>
 <li>词以类记 By Red Rock</li>
 <li>词根词缀联想记忆法 By 俞敏洪</li>
@@ -121,7 +127,10 @@ Speaking:
 <li>挑战托福满分作文 By 新东方</li>
 <li>TPO模考软件</li>
 
+Recommended Textbooks:
 
+<li>Solorzano, Helen S (2006). NorthStar: Building Skills for the TOEFL iBT—Advanced. New York: Pearson Education. </li>
+<li>Schmitt, D., & Schmitt, N. (2011). Focus on Vocabulary 2: Mastering the Academic Word List. White Plains, NY: Pearson Longman.</li>
 
 
 
