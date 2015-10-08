@@ -61,7 +61,7 @@
 					<a href="#schedule">Schedule</a>
 				</td>
 				<td valign="top">
-					<a href="#grade">Grades</a>
+					<a href="#grades">Grades</a>
 				</td>
 			</tr>
 		</tbody>
