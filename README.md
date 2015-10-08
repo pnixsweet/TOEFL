@@ -1,7 +1,4 @@
 <html>
-	<head>
-		<title> TOEFL Course </title>
-	</head>
 	<body>
 		<center>
 		<img src="logo.jpg"
@@ -118,7 +115,9 @@ Speaking:
 <h2>Textbook</h2>
 
 <li>Main Textbook: The official Guide, 4th Edition, By ETS</li>
-<li>
+<li>词以类记</li>
+<li>词根词缀</li>
+
 
 
 
