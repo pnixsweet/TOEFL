@@ -19,7 +19,7 @@
 				<a href="http://about.me/pnixsweet">
 					Eric Tian </a>
 				<br> 
-					Office: Room 1604, Tower 2, (Huayi Mansion)
+					Office: Room 1604, Tower 2, (Huayi Mansion),
 						2020 Zhongshan (W) Road
 				<br>
 					Tel: 189-160-65515
