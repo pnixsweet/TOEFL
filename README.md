@@ -203,9 +203,15 @@ Week 8:                 Unit 8: Perspectives on War-- Listening, Reading, Speaki
 
                 Speaking & Writing tests
 
+<a name="grades"></a>
+<h2>Grades</h2>
 
+Homework and participation: 40% (The instructors will ask students at random to submit their homework. The average scores of homework tests make up 40% of the final result.)
 
+Mid-term test: 30% (The instructors give a TOEFL like mid-term test (excluding speaking skill) to assess the progress of students, so that we can adjust our material, teaching methods; or get students to adjust themselves to get the final
+outcome.)
 
+Final test: 30% (The instructors give a TOEFL like final exam to evaluate students’ English proficiency throughout the entire course.)
 
 </body>
 </html>
