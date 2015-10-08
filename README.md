@@ -6,7 +6,7 @@
 		</img>
 		</center>
 		<center>
-			<h1> Fondation Program TOEFL Course</h1>
+			<h1> Foundation Program TOEFL Course</h1>
 		</center>
 	<hr>
 <table cellspacing="4">
