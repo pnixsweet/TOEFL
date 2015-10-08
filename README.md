@@ -3,11 +3,15 @@
 		<title> TOEFL Course </title>
 	</head>
 	<body>
-	<center>
-		<h1> Fondation Program TOEFL Course</h1>
-	</center>
+		<center>
+		<img src="logo.jpg"
+		 width="30%">
+		</img>
+		</center>
+		<center>
+			<h1> Fondation Program TOEFL Course</h1>
+		</center>
 	<hr>
-
 <table cellspacing="4">
 	<tbody>
 		<tr>
