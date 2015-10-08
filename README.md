@@ -164,41 +164,42 @@ Week 3: Unit 2: Communities—Listening, Reading, Speaking, Writing, Skill Focus
 
 Week 4:                 Unit 3: Personality--Listening, Reading, Speaking, Writing, Skill Focus: Making Inferences
 
-                                GRAMMAR,  (Appositives and Noun Structures), GRAMMAR & VOCABULARY review tests
+                GRAMMAR,  (Appositives and Noun Structures), GRAMMAR & VOCABULARY review tests
 
-                                Speaking & Writing tests
+                Speaking & Writing tests
 
  
 
 Week 5:                 Unit 4: Trends—Listening, Reading, Speaking, Writing, Skill Focus: Identifying and Using Main Ideas and Details
 
-                                GRAMMAR, (Standard Word Order), G√26 (Word Order in Subordinate Clauses) 
+                GRAMMAR, (Standard Word Order), G√26 (Word Order in Subordinate Clauses) 
 
-                                VOCABULARY  (Prefixes—negation, number and size, very small, very large)
+                VOCABULARY  (Prefixes—negation, number and size, very small, very large)
 
  
 
 Week 6:                 Unit 5: Cross-Cultural Insights—Listening, Reading, Speaking, Writing, Skill Focus: Using Context Clues
 
-                                GRAMMAR,  (Inverted S-V Word Order)
+                GRAMMAR,  (Inverted S-V Word Order)
 
-                                VOCABULARY  (Prefixes—time, where)
-			We will have a midterm during week 6 and the actual test time will be annoucned when we approach to the middle of the semester
+                VOCABULARY  (Prefixes—time, where)
+			
+We will have a midterm during week 6 and the actual test time will be annoucned when we approach to the middle of the semester
  
 
 Week 7:                 Unit 6: Faith—Listening, Reading, Speaking, Writing, Skill Focus: Summarizing
 
-                                GRAMMAR,  (Parallel Structure), G√29 (Paired Expressions)
+                GRAMMAR,  (Parallel Structure), G√29 (Paired Expressions)
 
-                                VOCABULARY  (Prefixes—amount, relationship, judgment, other) 
+                VOCABULARY  (Prefixes—amount, relationship, judgment, other) 
 
                                                
 
 Week 8:                 Unit 8: Perspectives on War-- Listening, Reading, Speaking, Writing, Skill Focus: Paraphrasing 
 
-                                GRAMMAR,  (Confusing Words and Expressions), GRAMMAR & VOCABULARY review tests
+                GRAMMAR,  (Confusing Words and Expressions), GRAMMAR & VOCABULARY review tests
 
-                                Speaking & Writing tests
+                Speaking & Writing tests
 
 
 
