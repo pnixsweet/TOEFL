@@ -98,11 +98,18 @@ Exam Structure
 The test is in English and administered via the Internet. There are four sections (listening, reading, speaking and writing) which take a total of about four and a half hours to complete.
 
 Section	Timing	Questions	Tasks
+
 Reading	60–80 minutes	36–56 questions	Read 3 or 4 passages from academic texts and answer questions.
+
 Listening	60–90 minutes	34–51 questions	Listen to lectures, classroom discussions and conversations, then answer questions.
+
 Break	10 minutes	-	-
+
 Speaking	20 minutes	6 tasks	Express an opinion on a familiar topic; speak based on reading and listening tasks.
-Writing	50 minutes	2 tasks	Write essay responses based on reading and listening tasks; support an opinion in writing. Source: TOEFL
+
+Writing	50 minutes	2 tasks	Write essay responses based on reading and listening tasks; support an opinion in writing. 
+
+Source: TOEFL
 
 <a name="objectives"></a>
 <h2>Objectives and Expectations</h2>
