@@ -83,6 +83,27 @@ Though there are large numbers of tests meant for the improvement of English ski
 TOEFL has two versions and they are internet based test and paper based test. Both of these versions have same modules but that are slightly different from each other.
 This course is designed to help you improve your score on the TOEFL,using academic language skills and test taking strategies. The class will practice for specific sections of the test.
 
+About The TOEFL
+
+The Test Of English as a Foreign Language (TOEFL) measures a person's ability to use and understand English at college level. It evaluates how well one combines listening, reading, speaking and writing skills to perform academic tasks.
+
+You may need the TOEFL if you are:
+A student planning to study at a higher education institution
+Applying to an English-language learning program
+A scholarship or certification candidate
+An English-language learner who wants to benchmark your progress
+A students or worker applying for visas
+Exam Structure
+
+The test is in English and administered via the Internet. There are four sections (listening, reading, speaking and writing) which take a total of about four and a half hours to complete.
+
+Section	Timing	Questions	Tasks
+Reading	60–80 minutes	36–56 questions	Read 3 or 4 passages from academic texts and answer questions.
+Listening	60–90 minutes	34–51 questions	Listen to lectures, classroom discussions and conversations, then answer questions.
+Break	10 minutes	-	-
+Speaking	20 minutes	6 tasks	Express an opinion on a familiar topic; speak based on reading and listening tasks.
+Writing	50 minutes	2 tasks	Write essay responses based on reading and listening tasks; support an opinion in writing. Source: TOEFL
+
 <a name="objectives"></a>
 <h2>Objectives and Expectations</h2>
 
