@@ -149,16 +149,9 @@ Speaking:
 
 Required Textbooks: 
 
-<li>新托福IBT官方指南：The official Guide, 4th Edition, By ETS</li>
-<li>词以类记 By Red Rock</li>
-<li>词根词缀联想记忆法 By 俞敏洪</li>
-<li>新托福考试口语真经4 By 新航道</li>
-<li>挑战托福满分作文 By 新东方</li>
-<li>TPO模考软件</li>
-
-Recommended Textbooks:
-
-<li>Solorzano, Helen S (2006). NorthStar: Building Skills for the TOEFL iBT—Advanced. New York: Pearson Education. </li>
+<li>The official Guide, 4th Edition, By ETS</li>
+<li>TPO</li>
+<li>Solorzano, Helen S. NorthStar: Building Skills for the TOEFL iBT—Advanced. New York: Pearson Education. </li>
 <li>Schmitt, D., & Schmitt, N. (2011). Focus on Vocabulary 2: Mastering the Academic Word List. White Plains, NY: Pearson Longman.</li>
 
 <a name="syllabus"?></a>
